@@ -14,9 +14,17 @@ la virtualisation et la sécurisation des accès.</samp>
 <br>
 <br>
 
-<img width="1000" alt="Fenêtre de terminal. ls ~/projets. securisation-acces-distant : analyse de risques EBIOS RM, VPN mTLS, IPS, SIEM. laboratoire-linux : pfSense, Samba AD, DMZ, détection d'intrusion, en préparation." src="https://raw.githubusercontent.com/abeiriz/abeiriz/main/projets.svg" />
+<sub>$ ls ~/projets</sub>
 
-<sub><a href="https://github.com/abeiriz/securisation-acces-distant">securisation-acces-distant</a>&nbsp;&nbsp;·&nbsp;&nbsp;laboratoire-linux <i>(en préparation)</i></sub>
+<samp><b><a href="https://github.com/abeiriz/securisation-acces-distant">securisation-acces-distant/</a></b></samp>
+
+<samp>Analyse de risques basée sur EBIOS RM, VPN mTLS, IPS Snort, SIEM Wazuh</samp>
+
+<br>
+
+<samp><b>laboratoire-linux/</b>&nbsp;&nbsp;<i>(en préparation)</i></samp>
+
+<samp>pfSense, Samba AD, DMZ, détection d'intrusion</samp>
 
 <br>
 <br>
