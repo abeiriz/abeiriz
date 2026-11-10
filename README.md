@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abeiriz/abeiriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1000" alt="Fenêtre de terminal. abeiriz@github. Windows : Windows 10/11, Windows Server 2019/2025. Linux : Debian, Linux Mint, Kali Linux. Virtualisation : Hyper-V, VMware Workstation. Annuaire : Active Directory, Samba AD. Réseau : TCP/IP, DNS, DHCP, LAN/WAN, DMZ, NAT/PAT, Wi-Fi, Cisco, VPN. Sécurité : Stormshield, FortiGate, Snort, Suricata, Wazuh. Sauvegarde : Acronis Cyber Protect, Veeam. Support : GLPI (ITIL), Oracle Siebel, Clarify CRM. Prise en main : Atera (RMM), Splashtop, AnyDesk. Microsoft 365 : Outlook, Teams, SharePoint, OneDrive. Matériel : serveurs HPE ProLiant. Téléphonie : IP 3CX. Scripts : PowerShell, Bash, Python, Markdown. Certifications : TSSR niveau 5 (Bac+2), CCP3 cybersécurité AIS. Langues : français, portugais, espagnol, anglais B1. Contact : beirizanafr@gmail.com." src="https://raw.githubusercontent.com/abeiriz/abeiriz/main/main.svg" />
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>$ cat à-propos.txt</sub>
+
+<samp>Je viens du support technique télécoms.<br>
+Je travaille aujourd'hui sur l'infrastructure Windows et Linux,<br>
+la virtualisation et la sécurisation des accès.</samp>
+
+<br>
+<br>
+
+<img width="1000" alt="Fenêtre de terminal. ls ~/projets. securisation-acces-distant : analyse de risques EBIOS RM, VPN mTLS, IPS, SIEM. laboratoire-linux : pfSense, Samba AD, DMZ, détection d'intrusion, en préparation." src="https://raw.githubusercontent.com/abeiriz/abeiriz/main/projets.svg" />
+
+<sub><a href="https://github.com/abeiriz/securisation-acces-distant">securisation-acces-distant</a>&nbsp;&nbsp;·&nbsp;&nbsp;laboratoire-linux <i>(en préparation)</i></sub>
+
+<br>
+<br>
+
+<sub><b>Formation</b> — Titre professionnel Technicienne Supérieure Systèmes et Réseaux, niveau 5 · ADRAR Pôle Numérique, Toulouse<br>
+Certificat « Participer à la gestion de la cybersécurité » (CP-003144), niveau 6, constitutif du titre d'Administratrice d'Infrastructures Sécurisées · avril 2026</sub>
+
+<br>
+<br>
+
+<sub><code>$ exit</code>&nbsp;&nbsp;—&nbsp;&nbsp;Toulouse, ouverte aux opportunités en systèmes, réseaux et support.&nbsp;&nbsp;<a href="https://linkedin.com/in/anapaulabeiriz">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:beirizanafr@gmail.com">beirizanafr@gmail.com</a></sub>
+
+</div>
+
